@@ -1,4 +1,4 @@
-#### Conditional Logic is all about the IF word. 
+## Conditional Logic is all about the IF word. 
 In fact, it's practically impossible to program effectively without using IF. You can write simple programs like our calculator. But for anything more complicated, you need to get the hang of Conditional Logic.
 
 As an example, take the calculator program you have just written. It only has a Plus button. We'll be adding another button soon, a Subtract button. Now, you can't say beforehand which of the two buttons your users will click. Do they want to add, or subtract? You need to be able to write code that does the following:
